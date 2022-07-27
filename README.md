@@ -23,7 +23,6 @@
 
 ## Attribution
     
-[Icons](www.flaticon.com) made by Freepikfrom 
 
 [Music](https://ncs.io/music) by NCS
 
